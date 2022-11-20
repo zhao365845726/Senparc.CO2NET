@@ -80,3 +80,7 @@ PM> Install-Package Senparc.CO2NET
 [抢先预览（2018年6月15日）](http://study.163.com/course/courseLearn.htm?courseId=1004873017&share=2&shareId=400000000353002#/learn/video?lessonId=1052874494&courseId=1004873017)
 
 [使用 CO2NET 初始化微信项目及普通项目（2018年6月22日）](http://study.163.com/course/courseLearn.htm?courseId=1004873017&share=2&shareId=400000000353002#/learn/video?lessonId=1052903157&courseId=1004873017)
+
+## 测试
+
+这个版本是演示的（可以忽略）
